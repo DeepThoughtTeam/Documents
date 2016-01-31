@@ -14,9 +14,11 @@ Test TensorFlow Installation
 
 	run this python script:
 	
-	```python
+	``` Python
 	  import tensorflow as tf	
-    hello = tf.constant('Hello, TensorFlow!')
+	  hello = tf.constant('Hello, TensorFlow!')
 	  sess = tf.Session()
 	  print sess.run(hello)	
 	```
+	
+
