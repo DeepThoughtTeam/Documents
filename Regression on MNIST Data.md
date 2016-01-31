@@ -1,9 +1,9 @@
-##### Download data set
+#### Download data set
 
 first, download [python file](https://tensorflow.googlesource.com/tensorflow/+/master/tensorflow/examples/tutorials/mnist/input_data.py), the name of downloaded file should be input_data.py.
 
 second, change to directory where saving input_data.py, run:
-```python
+```bash
 sudo python -m compileall .
 ```
 
